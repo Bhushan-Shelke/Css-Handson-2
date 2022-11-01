@@ -2,10 +2,6 @@
     margin: 0;
     padding: 0;
 }
-body{
-    background-image: url(pexels-pixabay-259915.jpg);
-
-}
 
 #head{
     display: flex;
